@@ -5,14 +5,14 @@
 
 - 🔭 I’m currently working on **My own project**
 
-- 💞️ I’m looking to collaborate on **Projects**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👀 I’m interested in **Technology**
 
-- 🌱 I’m currently learning **Software Engineering**
+- 💬 Ask me about **HTML and CSS**
 
-- 💬 Ask me about **HTML CSS**
 
-- 📫 How to reach me **by Teacher**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
