@@ -9,10 +9,13 @@
 
 - 👀 I’m interested in **Technology**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML CSS**
 
+- 💞️ I’m looking to collaborate on **Projects**
 
+- 📫 How to reach me **by Teacher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
