@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on My own project
 
-- 🌱 I’m currently learning MERN Stack Software Engineer
+-  I’m currently learning MERN Stack Software Engineer
 
 - 👀 I’m interested in Technology
 
