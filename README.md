@@ -1,11 +1,11 @@
 # Ratul-Raihan
 
-<h1 align="center">👋 Hi, I'm Ratul Raihan</h1>
+<h1 align="center"> Hi there, I'm Ratul Raihan 👋</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 👷‍♂️ I’m currently working on My own project
 
-- 🖥 I’m currently learning Software Engineering
+- 🖥 I’m currently learning MERN stack Developer
 
 - 👀 I’m interested in Technology
 
