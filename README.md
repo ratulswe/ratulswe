@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in Technology
 
-- 💬 Ask me about HTML CSS
+- 💬 Ask me about HTML & CSS
 
 - 💞️ I’m looking to collaborate on Projects
 
