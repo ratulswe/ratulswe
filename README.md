@@ -2,10 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 # 💫 About Me:
-<h5>
   👷‍♂️ I’m currently working on My own project<br>🖥 I’m currently learning MERN stack Developer<br>🤝 I’m interested in Technology<br>💬 Ask me about HTML & CSS<br>⚡ I’m looking to collaborate on projects
-  </h5>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ratulraihanrobin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ratulraihan404) 
