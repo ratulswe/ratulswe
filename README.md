@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Ratul 👋</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-# 💫 About Me:
+# 💫 <h2>About Me:</h2>
   👷‍♂️ I’m currently working on My own project<br>🖥 I’m currently learning MERN stack Developer<br>🤝 I’m interested in Technology<br>💬 Ask me about HTML & CSS<br>⚡ I’m looking to collaborate on projects
 
   ## Connect with me  
