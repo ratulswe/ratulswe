@@ -1,9 +1,16 @@
 <h1 align="center"> Hi there, I'm Ratul 👋</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate front-end developer from Bangladesh</h3>
 
-# <h2>💫 About Me</h2>
-👷‍♂️ I’m currently working on My own project<br>🖥 I’m currently learning MERN stack Developer<br>🤝 I’m interested in Technology<br>💬 Ask me about HTML & CSS<br>⚡ I’m looking to collaborate on projects 
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jura&weight=600&size=30&pause=1000&color=16F1F3&background=02002F00&vCenter=true&width=435&lines=Ratul+Raihan" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jura&weight=600&size=2.5&pause=1000&color=0184FF&background=02002F00&vCenter=true&width=435&lines=RatulRaihan.com" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jura&weight=600&size=2.5&pause=1000&color=2B60FF&background=02002F00&vCenter=true&width=435&lines=Coder" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jura&weight=600&size=2.5&pause=1000&color=2B60FF&background=02002F00&vCenter=true&width=435&lines=Specialized+in+HTML+%26+CSS" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jura&weight=600&size=2.5&pause=1000&color=DDD101&background=02002F00&vCenter=true&width=435&lines=Learning+MERN+Stack" alt="Typing SVG" /></a>
 
 # <h2>💻 Tech Stack</h2>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
