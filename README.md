@@ -11,6 +11,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jura&weight=600&size=2.5&pause=1000&color=DDD101&background=02002F00&vCenter=true&width=435&lines=Learning+MERN+Stack" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jura&weight=600&size=2.5&pause=1000&color=03DAD9&background=02002F00&vCenter=true&width=435&lines=HTML++CSS++Javascript" alt="Typing SVG" /></a>
+
 # <h2>💻 Tech Stack</h2>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
