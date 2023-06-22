@@ -1,5 +1,4 @@
-<h1 align="center"> Hi there, I'm Ratul 👋</h1>
-<h3 align="center">A passionate front-end developer from Bangladesh</h3>
+<h3 align="left"> Hi there, I'm Ratul 👋</h1>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=jura&weight=600&size=30&pause=1000&color=16F1F3&background=02002F00&vCenter=true&width=435&lines=Ratul+Raihan" alt="Typing SVG" /></a>
