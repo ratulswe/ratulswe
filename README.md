@@ -31,5 +31,3 @@
 
 ### <h3>✍️ Random Dev Quote</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=ratulraihanrobin&icon=0&color=0)](https://visitcount.itsvg.in)
