@@ -24,10 +24,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ratulraihanrobin&color=blueviolet)
 
-###
-
-# <h3>📊 GitHub Stats</h3>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ratulraihanrobin&theme=radical&hide_border=true)<br/>
 
 ### <h3>✍️ Random Dev Quote</h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
