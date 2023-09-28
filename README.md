@@ -1,4 +1,4 @@
-<h3 align="left"> Hi there, I'm Ratul 👋</h1>
+<h3 align="left" color="#fff"> Hi there, I'm Ratul 👋</h1>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=2.3&pause=1000&color=16F1F3&vCenter=true&width=435&lines=Ratul+Raihan" alt="Typing SVG" /></a>
