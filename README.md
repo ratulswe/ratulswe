@@ -12,10 +12,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=2.5&pause=1000&vCenter=true&width=600&height=100&lines=React++MongoDB++Node.js++Express.js++Next.js" alt="Typing SVG" /></a>
 
 <div align="left">
-  <a href='https://twitter.com/ratulraihanSWE' target='_blank' rel="noopener">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ratulraihanSWE?style=social"/>
+  <a href='https://twitter.com/ratulSWE' target='_blank' rel="noopener">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ratulSWE?style=social"/>
 <a/>
-  <a href="https://www.linkedin.com/in/ratulraihanrobin" target="_blank">
+  <a href="https://www.linkedin.com/in/ratulraihan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div><br>
