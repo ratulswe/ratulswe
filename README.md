@@ -5,7 +5,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=2.3&pause=1000&color=2B60FE&vCenter=true&width=435&lines=Coder" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=2.3&pause=1000&color=1E8FFF&width=435&lines=Specialized+in+HTML+CSS+%26+JavaScript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1E8FFF&width=560&lines=Specialized+in+HTML+CSS+%26+JavaScript+(ES6)" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=2.3&pause=1000&color=F6E801&vCenter=true&width=435&lines=Learning+MERN+Stack" alt="Typing SVG" /></a>
 
